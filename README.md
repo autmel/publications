@@ -9,6 +9,6 @@ Bienvenue dans l'espace de publication. Vous trouverez ici divers documents, pr�
 
 ## Outils
 
-- [Carte interactive des parcs et jardins](https://autmel.github.io/parcs-et-jardins/): Découvrez une carte interactive des parcs et jardins de la MEL, avec des informations relatives aux critères OMS.
+- [Carte interactive des parcs et jardins](https://autmel.github.io/parcs-et-jardins/){:target="_blank"}: Découvrez une carte interactive des parcs et jardins de la MEL, avec des informations relatives aux critères OMS.
 
 
