@@ -35,10 +35,14 @@
 ![page_28](01-PARC/page_28.png)
 
 
+----------------
+
 ### Télécharger la présentation
 
-            [Télécharger la présentation](presentations/        01-PARC_conference%20science%20po%202025%20version%20finale.pptx)
+[Télécharger la présentation](presentations/        01-PARC_conference%20science%20po%202025%20version%20finale.pptx)
 
+
+----------------
 
 ## Intervention de LM Oxygène
 
@@ -78,10 +82,14 @@
 ![10d-perif-vert_27](02-LmOxygène/10d-perif-vert_27.jpg)
 
 
+----------------
+
 ### Télécharger la présentation
 
-            [Télécharger la présentation](presentations/02-LmOxygene_presentation_vito.pptx)
+[Télécharger la présentation](presentations/02-LmOxygene_presentation_vito.pptx)
 
+
+----------------
 
 ##  Intervention de Deul'Air
 
@@ -101,9 +109,13 @@
 
 
 
+----------------
+
 ### Télécharger la présentation
 
-            [Télécharger la présentation](presentations/03-DeulAir_Présentation%20Yolande.pptx)
+[Télécharger la présentation](presentations/03-DeulAir_Présentation%20Yolande.pptx)
+
+----------------
 
 ## Intervention d'Entrelianes
 
@@ -119,9 +131,13 @@
 
 
 
+----------------
+
 ### Télécharger la présentation
 
-            [Télécharger la présentation](presentations/04-Entrelianes_LOI%20ZAN%20EAU%20LOGO%203.odp)
+[Télécharger la présentation](presentations/04-Entrelianes_LOI%20ZAN%20EAU%20LOGO%203.odp)
+
+----------------
 
 ## Intervention d'AutMel
 
@@ -154,9 +170,13 @@
 ![page_9](05-AutMel/page_9.png)
 
 
+----------------
+
 ### Télécharger la présentation
 
-            [Télécharger la présentation](presentations/05-AutMel_presentation_cedric.pptx)
+[Télécharger la présentation](presentations/05-AutMel_presentation_cedric.pptx)
+
+----------------
 
 ## Questions aux candidats
 
@@ -167,6 +187,8 @@
 ![06-Carte](06-Questions/06-Carte.png)
 
 
+----------------
+
 ### Télécharger la présentation
 
-            [Télécharger la présentation](presentations/06-Questions.pptx)
+[Télécharger la présentation](presentations/06-Questions.pptx)
