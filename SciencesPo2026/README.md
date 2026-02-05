@@ -1,5 +1,30 @@
 # Conférence Sciences Po 2026
 
+### Télécharger la présentation - PARC
+
+[Télécharger la présentation](presentations/01-PARC_conference%20science%20po%202025%20version%20finale.pptx)
+
+### Télécharger la présentation - LM Oxygène
+
+[Télécharger la présentation](presentations/02-LmOxygene_presentation_vito.pptx)
+
+### Télécharger la présentation - Deul'Air
+
+[Télécharger la présentation](presentations/03-DeulAir_Présentation%20Yolande.pptx)
+
+### Télécharger la présentation - Entrelianes
+
+[Télécharger la présentation](presentations/04-Entrelianes_LOI%20ZAN%20EAU%20LOGO%203.odp)
+
+### Télécharger la présentation - AutMel
+
+[Télécharger la présentation](presentations/05-AutMel_presentation_cedric.pptx)
+
+### Télécharger la présentation - Questions aux candidats
+
+[Télécharger la présentation](presentations/06-Questions.pptx)
+
+----------------
 
 ## Intervention de PARC
 
@@ -34,20 +59,11 @@
 ![page_27](01-PARC/page_27.png)
 ![page_28](01-PARC/page_28.png)
 
-
-----------------
-
-### Télécharger la présentation
-
-[Télécharger la présentation](presentations/        01-PARC_conference%20science%20po%202025%20version%20finale.pptx)
-
-
 ----------------
 
 ## Intervention de LM Oxygène
 
 ----------------
-
 
 ![01a-introduction](02-LmOxygène/01a-introduction.jpg)
 ![01b-lille](02-LmOxygène/01b-lille.jpg)
@@ -81,20 +97,11 @@
 ![10d-perif-avant_60](02-LmOxygène/10d-perif-avant_60.jpg)
 ![10d-perif-vert_27](02-LmOxygène/10d-perif-vert_27.jpg)
 
-
-----------------
-
-### Télécharger la présentation
-
-[Télécharger la présentation](presentations/02-LmOxygene_presentation_vito.pptx)
-
-
 ----------------
 
 ##  Intervention de Deul'Air
 
 ----------------
-
 
 ![page_1](03-DeulAir/page_1.png)
 ![page_2](03-DeulAir/page_2.png)
@@ -107,20 +114,11 @@
 ![page_9](03-DeulAir/page_9.png)
 ![page_A](03-DeulAir/page_A.png)
 
-
-
-----------------
-
-### Télécharger la présentation
-
-[Télécharger la présentation](presentations/03-DeulAir_Présentation%20Yolande.pptx)
-
 ----------------
 
 ## Intervention d'Entrelianes
 
 ----------------
-
 
 ![page_1](04-Entrelianes/page_1.png)
 ![page_2](04-Entrelianes/page_2.png)
@@ -128,14 +126,6 @@
 ![page_4](04-Entrelianes/page_4.png)
 ![page_5](04-Entrelianes/page_5.png)
 ![page_6](04-Entrelianes/page_6.png)
-
-
-
-----------------
-
-### Télécharger la présentation
-
-[Télécharger la présentation](presentations/04-Entrelianes_LOI%20ZAN%20EAU%20LOGO%203.odp)
 
 ----------------
 
@@ -169,26 +159,11 @@
 ![page_8](05-AutMel/page_8.png)
 ![page_9](05-AutMel/page_9.png)
 
-
-----------------
-
-### Télécharger la présentation
-
-[Télécharger la présentation](presentations/05-AutMel_presentation_cedric.pptx)
-
 ----------------
 
 ## Questions aux candidats
 
 ----------------
 
-
 ![01-Questions](06-Questions/01-Questions.png)
 ![06-Carte](06-Questions/06-Carte.png)
-
-
-----------------
-
-### Télécharger la présentation
-
-[Télécharger la présentation](presentations/06-Questions.pptx)
