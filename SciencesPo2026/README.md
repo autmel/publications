@@ -1,26 +1,26 @@
 # Conférence Sciences Po 2026
 
-### Télécharger la présentation - PARC
+### PARC
 
 [Télécharger la présentation](presentations/01-PARC_conference%20science%20po%202025%20version%20finale.pptx)
 
-### Télécharger la présentation - LM Oxygène
+### LM Oxygène
 
 [Télécharger la présentation](presentations/02-LmOxygene_presentation_vito.pptx)
 
-### Télécharger la présentation - Deul'Air
+### Deul'Air
 
 [Télécharger la présentation](presentations/03-DeulAir_Présentation%20Yolande.pptx)
 
-### Télécharger la présentation - Entrelianes
+### Entrelianes
 
 [Télécharger la présentation](presentations/04-Entrelianes_LOI%20ZAN%20EAU%20LOGO%203.odp)
 
-### Télécharger la présentation - AutMel
+### AutMel
 
 [Télécharger la présentation](presentations/05-AutMel_presentation_cedric.pptx)
 
-### Télécharger la présentation - Questions aux candidats
+### Questions aux candidats
 
 [Télécharger la présentation](presentations/06-Questions.pptx)
 
