@@ -112,19 +112,6 @@
 
 ----------------
 
-## Intervention d'Entrelianes
-
-----------------
-
-![page_1](04-Entrelianes/page_1.png)
-![page_2](04-Entrelianes/page_2.png)
-![page_3](04-Entrelianes/page_3.png)
-![page_4](04-Entrelianes/page_4.png)
-![page_5](04-Entrelianes/page_5.png)
-![page_6](04-Entrelianes/page_6.png)
-
-----------------
-
 ## Intervention d'AutMel
 
 ----------------
