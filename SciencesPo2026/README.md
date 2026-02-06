@@ -12,10 +12,6 @@
 
 [Télécharger la présentation](presentations/03-DeulAir_Présentation%20Yolande.pptx)
 
-### Entrelianes
-
-[Télécharger la présentation](presentations/04-Entrelianes_LOI%20ZAN%20EAU%20LOGO%203.odp)
-
 ### AutMel
 
 [Télécharger la présentation](presentations/05-AutMel_presentation_cedric.pptx)
